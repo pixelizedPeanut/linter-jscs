@@ -1,6 +1,6 @@
 {
   "name": "old-linter-jscs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "src/linter-jscs",
   "description": "Linter plugin for JavaScript, using JSCS 1.13.1",
   "repository": "https://github.com/pixelizedPeanut/old-linter-jscs",
