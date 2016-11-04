@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "main": "src/linter-jscs",
   "description": "Linter plugin for JavaScript, using JSCS 1.13.1",
-  "repository": "https://github.com/pixelizedPeanut/linter-jscs",
+  "repository": "https://github.com/pixelizedPeanut/old-linter-jscs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
